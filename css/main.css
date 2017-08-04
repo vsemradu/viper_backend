@@ -1,0 +1,29 @@
+.my-alert{
+    margin-top: 10px;
+
+}
+.container{
+    margin-top: 10px!important;
+
+}
+
+
+.center-block {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.instagram_block img:hover{
+    cursor: pointer;
+    border: 1px solid #4cae4c;
+    filter: alpha(Opacity=60);
+    opacity: 0.60; 
+}
+
+
+.instagram_block.inDb img{
+    filter: alpha(Opacity=10);
+    opacity: 0.10; 
+    border: 1px solid #4cae4c;
+}

@@ -1,0 +1,7 @@
+https://github.com/bocharsky-bw/vkontakte-php-sdk
+
+https://github.com/fdcore/vk.api
+
+https://github.com/cosenary/Instagram-PHP-API
+
+https://github.com/hackerone/curl/

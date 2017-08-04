@@ -1,0 +1,23 @@
+{
+  "name": "bower",
+  "authors": [
+    "Igor Morozov <badboyzp@gmail.com>"
+  ],
+  "description": "bower",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "eonasdan-bootstrap-datetimepicker": "~4.17.37",
+    "moment": "~2.10.6"
+  }
+}
